@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c57af418-263e-4db6-8c26-337e1a2ae012" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/ComputerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/HumanPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/playerinterface/PlayerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/playerinterface/PlayerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/graphics/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/graphics/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/ComputerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/ComputerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/logicInterface/PlayerControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/logicInterface/PlayerControllerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/CreateMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/CreateMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/ManageFileInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/ManageFileInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/map2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/map3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/util/ReadCSVTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/util/ReadCSVTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/manhattanTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/manhattanTest.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/map2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/map2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/movementInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/movementInput.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/neighbourTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/neighbourTest.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29yLpT5tAq7HcysmqAvWid7hZOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bjorn/OneDrive/JavaGame/2dMazeGame/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bjorn\OneDrive\JavaGame\2dMazeGame\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.solman.graphics" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.solman.logic.util" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.solman.entity" />
+      <recent name="org.solman.logic.util" />
+      <recent name="org.solman.logic" />
+      <recent name="org.solman" />
+      <recent name="org.solman.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.solman.Main" />
+      <module name="2dMazeGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateMapTest.createCPURoadMap (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2dMazeGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solman.logic.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.solman.logic.util" />
+      <option name="MAIN_CLASS_NAME" value="org.solman.logic.util.CreateMapTest" />
+      <option name="METHOD_NAME" value="createCPURoadMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateMapTest.testNodeListSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2dMazeGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solman.logic.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.solman.logic.util" />
+      <option name="MAIN_CLASS_NAME" value="org.solman.logic.util.CreateMapTest" />
+      <option name="METHOD_NAME" value="testNodeListSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanPlayerTest.newPosYIsPassableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2dMazeGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solman.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.solman.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.solman.entity.HumanPlayerTest" />
+      <option name="METHOD_NAME" value="newPosYIsPassableTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumanPlayerTest.setNewLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2dMazeGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solman.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.solman.entity" />
+      <option name="MAIN_CLASS_NAME" value="org.solman.entity.HumanPlayerTest" />
+      <option name="METHOD_NAME" value="setNewLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.HumanPlayerTest.setNewLocation" />
+        <item itemvalue="JUnit.HumanPlayerTest.newPosYIsPassableTest" />
+        <item itemvalue="JUnit.CreateMapTest.createCPURoadMap (1)" />
+        <item itemvalue="JUnit.CreateMapTest.testNodeListSize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c57af418-263e-4db6-8c26-337e1a2ae012" name="Changes" comment="" />
+      <created>1654080565890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654080565890</updated>
+      <workItem from="1654080569405" duration="7724000" />
+      <workItem from="1654164387440" duration="3103000" />
+      <workItem from="1654172227042" duration="932000" />
+      <workItem from="1654178248106" duration="8221000" />
+      <workItem from="1654202289245" duration="2618000" />
+      <workItem from="1654243357410" duration="11570000" />
+      <workItem from="1654263091013" duration="200000" />
+      <workItem from="1654263477848" duration="9902000" />
+      <workItem from="1654283149766" duration="644000" />
+      <workItem from="1654285731565" duration="1140000" />
+      <workItem from="1654344573811" duration="15320000" />
+      <workItem from="1654413477245" duration="9362000" />
+      <workItem from="1654504372739" duration="15875000" />
+      <workItem from="1654543467016" duration="3281000" />
+      <workItem from="1654616599062" duration="14622000" />
+      <workItem from="1654699194031" duration="119000" />
+      <workItem from="1654764201377" duration="9151000" />
+      <workItem from="1654839760024" duration="1343000" />
+      <workItem from="1654850879508" duration="2260000" />
+      <workItem from="1654873049769" duration="1663000" />
+      <workItem from="1654936251317" duration="5513000" />
+      <workItem from="1655059381364" duration="396000" />
+      <workItem from="1655197759346" duration="11729000" />
+      <workItem from="1655277369163" duration="4632000" />
+      <workItem from="1655304610545" duration="2417000" />
+      <workItem from="1655318934832" duration="2944000" />
+      <workItem from="1655379060527" duration="3689000" />
+      <workItem from="1655384756473" duration="144000" />
+      <workItem from="1655390936648" duration="2757000" />
+      <workItem from="1655406650172" duration="4093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2dMazeGame$CreateMapTest_createCPURoadMap__1_.ic" NAME="CreateMapTest.createCPURoadMap (1) Coverage Results" MODIFIED="1654374521374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.solman.logic.util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/2dMazeGame$Main.ic" NAME="Main Coverage Results" MODIFIED="1654693226989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.solman.*</FILTER>
+    </SUITE>
+  </component>
+</project>
