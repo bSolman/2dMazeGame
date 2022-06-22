@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c57af418-263e-4db6-8c26-337e1a2ae012" name="Changes" comment="V.0.0.1&#10;Fixed some bugs regarding border collision tests.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/map2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,8 +200,21 @@
       <workItem from="1655390936648" duration="2757000" />
       <workItem from="1655406650172" duration="4093000" />
       <workItem from="1655830005106" duration="940000" />
-      <workItem from="1655899931778" duration="419000" />
+      <workItem from="1655899931778" duration="1492000" />
     </task>
+    <task id="LOCAL−00001" summary="V.0.0.1&#10;Fixed some bugs regarding border collision tests.">
+      <created>1655900462397</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1655900462397</updated>
+    </task>
+    <task id="LOCAL−00002" summary="V.0.0.1&#10;Fixed some bugs regarding border collision tests.">
+      <created>1655900475264</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1655900475265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +230,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V.0.0.1&#10;Fixed some bugs regarding border collision tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="V.0.0.1&#10;Fixed some bugs regarding border collision tests." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2dMazeGame$CreateMapTest_createCPURoadMap__1_.ic" NAME="CreateMapTest.createCPURoadMap (1) Coverage Results" MODIFIED="1654374521374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
