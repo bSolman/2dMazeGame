@@ -4,35 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c57af418-263e-4db6-8c26-337e1a2ae012" name="Changes" comment="">
+    <list default="true" id="c57af418-263e-4db6-8c26-337e1a2ae012" name="Changes" comment="V.0.0.1&#10;Fixed some bugs regarding border collision tests.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/ComputerPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/HumanPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/entity/playerinterface/PlayerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/entity/playerinterface/PlayerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/graphics/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/graphics/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/ComputerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/ComputerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/controllers/PlayerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/logicInterface/PlayerControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/logicInterface/PlayerControllerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/CreateMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/CreateMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/ManageFileInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solman/logic/util/ManageFileInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/map2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/map3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/map3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/HumanPlayerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/entity/NodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/logic/util/CreateMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/solman/util/ReadCSVTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solman/util/ReadCSVTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/manhattanTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/manhattanTest.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/map2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/map2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/movementInput.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/movementInput.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/neighbourTest.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/neighbourTest.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,6 +200,8 @@
       <workItem from="1655384756473" duration="144000" />
       <workItem from="1655390936648" duration="2757000" />
       <workItem from="1655406650172" duration="4093000" />
+      <workItem from="1655830005106" duration="940000" />
+      <workItem from="1655899931778" duration="419000" />
     </task>
     <servers />
   </component>
